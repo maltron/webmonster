@@ -24,8 +24,8 @@
             <!--This sends everything else to /public -->
             <id>nexus</id>
             <mirrorOf>*</mirrorOf>
-                <url>http://repo.demo.redhat.com:8081/nexus/content/groups/public/</url>
-<!--            <url>http://31.220.68.55:8081/nexus/content/groups/public/</url>-->
+<!--                <url>http://repo.demo.redhat.com:8081/nexus/content/groups/public/</url>-->
+            <url>http://153.92.38.36:8081/nexus/content/groups/public/</url>
 <!--            <url>http://nexus.cloudapps.workshopdevops.com/content/groups/public/</url>-->
         </mirror>
     </mirrors>
